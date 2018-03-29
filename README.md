@@ -26,7 +26,7 @@ $config['facebook_auth_on_load'] = TRUE;
 Set Facebook+session libraries and URL helper to autoload 
 
 Read Blog
-http://www.shakzee.com/blogs/readblog/14/login-with-facebook-using-codeigniter
+https://www.shakzee.com/blogs/login-with-facebook-using-codeigniter
  
 Watch Tutorials Now on Shakzee
-http://www.shakzee.com/courses/detail/19/login-with-facebook-using-codeigniter 
+https://www.shakzee.com/courses/login-with-facebook-using-codeigniter-in-urdu
